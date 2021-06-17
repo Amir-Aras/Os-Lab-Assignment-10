@@ -1,9 +1,8 @@
 # Os-Lab-Assignment-10
 
 
-### 1
-- **A Party**
-- code
+### 1 **A Party**
+- Code
 ```console
 #!/bin/bash
 echo "Age:"
@@ -27,8 +26,8 @@ fi
 ![Q1](https://raw.githubusercontent.com/Amir-Aras/Os-Lab-Assignment-10/master/images/1.png)
 
 
-### 2
-- **Create Folders**
+### 2 **Create Folders**
+- Code
 ```console
 #!/bin/bash
 export i=1
@@ -39,11 +38,12 @@ do
 done
 echo "Folders created."
 ```
+- Image
 ![Q2](https://raw.githubusercontent.com/Amir-Aras/Os-Lab-Assignment-10/master/images/2.png)
 
 
-### 3
-- **Change Images Name**
+### 3 **Change Images Name**
+- Code
 ```console
 #!/bin/bash
 echo directory:
@@ -58,10 +58,11 @@ do
         mv $file $dir/img$((cnt = cnt + 1)).png
 done
 ```
+- Image
 ![Q3](https://raw.githubusercontent.com/Amir-Aras/Os-Lab-Assignment-10/master/images/3.png)
 
-### 4
-- **Simple Calculator**
+### 4 **Simple Calculator**
+- Code
 ```console
 #!/bin/bash
 echo "Choose: 
@@ -90,4 +91,5 @@ else
     echo "Please Try Again!!!"
 fi
 ```
+- Image
 ![Q4](https://raw.githubusercontent.com/Amir-Aras/Os-Lab-Assignment-10/master/images/4.png)
