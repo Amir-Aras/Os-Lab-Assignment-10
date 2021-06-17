@@ -3,6 +3,7 @@
 
 ### 1
 - **A Party**
+- code
 ```console
 #!/bin/bash
 echo "Age:"
@@ -22,6 +23,7 @@ then
     fi
 fi
 ```
+- Image
 ![Q1](https://raw.githubusercontent.com/Amir-Aras/Os-Lab-Assignment-10/master/images/1.png)
 
 
